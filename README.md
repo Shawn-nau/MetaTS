@@ -8,7 +8,7 @@
 pip install tsfmeta
 ```
 # Resources
-- [**Examples to use the package**]([https://github.com/Shawn-nau/tsfmeta/examples/](https://github.com/Shawn-nau/tsfmeta/tree/main/examples))
+- [**Examples to use the package**](https://github.com/Shawn-nau/tsfmeta/tree/main/examples)
 
 # Description
 `tsfmeta` was created with foundations on existing libraries in the PyTorch eco-system, stream-lined neural network layer definitions, temporal snapshot generators for batching, and integrated benchmark datasets. Specifically, the library provides a metadata class that abstracts handling data initialization, data iterating, train-test splitting, and feature extracting, etc., a meta-learner class that provides multiple predefined neural network architectures for meta-learning, and a utility class that provides functions that help users to create meta-data with their datasets.
