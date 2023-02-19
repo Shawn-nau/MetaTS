@@ -1,0 +1,33 @@
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tsfmeta"
+version = "0.0.1"
+description = "Large Scale Time series forecasting with metalearning"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {file = "LICENSE.txt"}
+keywords = ["time series", "forecasting", "metalearning"]
+authors = [
+  {name = "Shaohui Ma", email = "shaohui.ma@hotmail.com"},
+]
+maintainers = [
+  {name = "Shaohui Ma", email = "shaohui.ma@hotmail.com"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+repository = "https://github.com/Shawn-nau/tsfmeta"
+
+
+
+
+
+
